@@ -1,6 +1,6 @@
 # AI Fashion Discriminator
 
-<img src = "Images/banner.jpg" >
+<img src = "Images/banner.jpeg" >
 
 
 ### Presentación
