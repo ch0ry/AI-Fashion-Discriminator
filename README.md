@@ -1,17 +1,18 @@
-# AI Fashion Discriminator
+# AI Fashion Discriminator 2.0
 
 <img src = "Images/banner.jpeg" >
 
 
-### Presentación
+### V1.0 Presentation
 https://drive.google.com/file/d/1JL-r1kclfqF4TcKCoUbMzCz8ZpZbHdkx/view?usp=share_link
 
-### Video 
-https://youtu.be/RCLCmu3NwjU
+### Dataset description
+Dataset consists of a considerable set of hand gathered pictures of outfits in 5 different styles (Sportswear, Fancy, Streetwear, etc.), regardless of body type.
 
-### Objetivo
-El objetivo de AI Fashion Discriminator es ayudar a las personas a tomar mejores decisiones en el ámbito de la moda, diciéndole al usuario si aquello que viste va a la moda o no
+### Objective
+AI Fashion Discriminator's objective is to guide the user to dress up in the style they so desire, by telling them the style their current outfit belongs to.
 
 ### Estimadores
-Se implementó CNN con 3 capas Conv2D, 2 MaxPooling2D, 1 Dense y Output layer. Con un total de 1.127.105 trainable params.
+#### V1.0:
+Cnn with 3 Conv2D, 2 MaxPooling2D, 1 Dense and Output layer. With a grand total of  1.127.105 trainable params.
 
