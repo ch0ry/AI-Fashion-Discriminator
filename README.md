@@ -6,6 +6,10 @@
 ### Presentation
 [https://drive.google.com/file/d/1JL-r1kclfqF4TcKCoUbMzCz8ZpZbHdkx/view?usp=share_link
 ](https://docs.google.com/presentation/d/19G4Tq4fX-TgeF9Vx9-vt5R-xQca2vK4S5rselOr5Jfg/edit?usp=sharing)
+
+[https://youtu.be/3duqEm2XCnw
+](https://youtu.be/3duqEm2XCnw)
+
 ### Dataset description
 It consists of nearly 100 images of men and women wearing clothes that belong to 5 different styles (Sportswear, Fancy, Streetwear, Preppy, Techwear).
 
